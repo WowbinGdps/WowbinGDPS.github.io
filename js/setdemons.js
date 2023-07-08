@@ -1,4 +1,4 @@
-const domen = 'http://wowbingdps.github.io/';
+const domen = 'https://wowbingdps.github.io/';
 const app = new Main();
 
 $.get(domen + 'js/dl/add.txt', (data) => {
